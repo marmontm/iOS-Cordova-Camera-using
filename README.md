@@ -17,7 +17,7 @@ And then display it.
   
 > **Note:** iOS Development with Xcode is available on macOS only.    
 >  
-> More information : 
+> More information :    
 > https://developer.apple.com/    
 > https://cordova.apache.org/   
   
