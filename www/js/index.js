@@ -28,6 +28,13 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        
+        // add onclick event on 'Take picture' button
+        document.getElementById("btnCameraTakePicture").addEventListener("click", cameraTakePicture);
+        
+        // add onclick event on 'Import picture' button
+        document.getElementById("btnCameraImportPicture").addEventListener("click", cameraImportPicture);
+
     },
 
     // Update DOM on a Received Event
