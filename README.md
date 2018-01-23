@@ -15,8 +15,8 @@ And then display it.
 3. The source code from the displayed HTML page is located in the `www` folder inside the iOS project. Home is `index.html`
   
   
-> **Note:** iOS Development with Xcode is available on macOS only.  
-> More information : https://developer.apple.com
+> **Note:** iOS Development with Xcode is available on macOS only.    
+> More information : https://developer.apple.com   
   
   
 January 2018, Maxime MARMONT
