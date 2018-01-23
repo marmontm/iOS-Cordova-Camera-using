@@ -12,9 +12,12 @@ And then display it.
 ## How to use ?
 1. Install Cordova on your computer (only if you don't have already installed it)
 2. Open Xcode project workspace located in `/cordova-project/platforms/ios/`
-3. Start coding :)
+3. The source code from the displayed HTML page is located in the `w
+  ww` folder inside the iOS project. Home is `index.html`
   
-> **Note:** iOS Development with Xcode is available on macOS only.  
+  
+> **Note:** iOS Development with Xcode is available on macOS only.  
 > More information : https://developer.apple.com
+  
   
 January 2018, Maxime MARMONT
