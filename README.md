@@ -1,5 +1,5 @@
 # iOS-Cordova-Camera-using
-Use Camera plugin in Cordova for iOS Development
+*SnapMe* is a very small mobile application where you can us Camera plugin in Cordova for iOS Development.
 
 ## How to use ?
 1. Install Cordova on your computer (only if you don't have already installed it)
