@@ -6,7 +6,7 @@ Use Camera plugin in Cordova for iOS Development
 2. Open Xcode project workspace located in */platforms/ios/*
 3. Start coding :)
 
-> *Note:* iOS Development with Xcode is available on macOS inly.
+> *Note:* iOS Development with Xcode is available on macOS only.
 > More information : https://developer.apple.com
 
 January 2018, Maxime MARMONT
