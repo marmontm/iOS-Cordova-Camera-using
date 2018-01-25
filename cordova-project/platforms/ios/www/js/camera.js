@@ -3,7 +3,8 @@ function cameraTakePicture() {
     // try to take picture
     navigator.camera.getPicture(onSuccess, onFail, {
                                 quality: 50,
-                                destinationType: Camera.DestinationType.DATA_URL
+                                destinationType: Camera.DestinationType.DATA_URL,
+                                sourceType: Camera.PictureSourceType.CAMERA
                                 });
     
     function onSuccess(imageData) {
