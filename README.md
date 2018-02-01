@@ -6,12 +6,7 @@ With this application, you are able to choose a picture from one of these source
 1. **Take a picture** with the built-in camera on your iPhone
 2. **Import a picture** from your photo library
   
-And then display it.  
-
-## Issues
-#1  
-Application crashes on opening on iOS 11.2.5
-  
+And then display it.   
   
 ## How to use ?
 1. Install Cordova on your computer (only if you don't have already installed it)
