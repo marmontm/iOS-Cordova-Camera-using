@@ -7,6 +7,10 @@ With this application, you are able to choose a picture from one of these source
 2. **Import a picture** from your photo library
   
 And then display it.  
+
+## Issues
+#1  
+Application crashes on opening on iOS 11.2.5
   
   
 ## How to use ?
